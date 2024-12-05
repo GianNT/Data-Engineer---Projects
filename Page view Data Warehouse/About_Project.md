@@ -12,16 +12,16 @@ Project Idea:
 **NOTE**
 The final data in the data warehouse may not exactly match Wikimedia's source data. This project is for educational and practice purposes only.
 
-**PROJECT STRUCTURE**
+**PROJECT STRUCTURE** 
 1.	Source Folder: Contains raw .gz files.
 2.	Stage Folder: Holds intermediary files, including Parquet files for processed data.
 3.	Data Warehouse: The final OLAP storage for the processed data.
 4.	Extract and Visualization: Tableau is used for visualizing key statistics and insights.
 
 **DEPENDENCIES AND TOOLS**
+
 •	Python: The core programming language for data extraction, transformation, and loading (ETL).\
 •	Apache Spark: Used for large-scale parallel data processing and loading data into the data warehouse.\
-
 •	Navicat Premium: A user-friendly tool for database management and development.\
 •	Tableau: For creating interactive visualizations and insights.
 
@@ -43,5 +43,6 @@ Challenge 3: Optimizing Fact Table Design
 •	Solution: Partition fact tables by year and month to improve query efficiency and scalability
 
 **FLOW DIAGRAM**
+![recording_project_1_final](https://github.com/user-attachments/assets/a13ccbfb-ecef-47bf-ae42-f648e359f62d)
 
-![image](https://github.com/user-attachments/assets/8ca65ca0-bb33-4571-821f-4d9ff407ca1b)
+
