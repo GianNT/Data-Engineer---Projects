@@ -1,7 +1,7 @@
 **PAGEVIEW COUNT BASED ON DOMAINS DATA WAREHOUSE**
 
 **INTRODUCTION** \
-The aim of this project is to develop a data warehouse for analytical purposes, specifically targeting skills at the fresher level. The project focuses on improving batch data collection techniques and the application of ETL/ELT processes using Python and Apache Spark.\
+The aim of this project is to develop a data warehouse for analytical purposes, specifically targeting skills at the fresher level. The project focuses on improving batch data collection techniques and the application of ETL/ELT processes using Python and Apache Spark.
 
 Project Idea:\
 •	Data Source: Pageview count data collected from Wikimedia.\
