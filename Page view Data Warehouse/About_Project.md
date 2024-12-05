@@ -19,9 +19,10 @@ The final data in the data warehouse may not exactly match Wikimedia's source da
 4.	Extract and Visualization: Tableau is used for visualizing key statistics and insights.
 
 **DEPENDENCIES AND TOOLS**
-•	Python: The core programming language for data extraction, transformation, and loading (ETL).
-•	Apache Spark: Used for large-scale parallel data processing and loading data into the data warehouse.
-•	Navicat Premium: A user-friendly tool for database management and development.
+•	Python: The core programming language for data extraction, transformation, and loading (ETL).\
+•	Apache Spark: Used for large-scale parallel data processing and loading data into the data warehouse.\
+
+•	Navicat Premium: A user-friendly tool for database management and development.\
 •	Tableau: For creating interactive visualizations and insights.
 
 
@@ -43,4 +44,4 @@ Challenge 3: Optimizing Fact Table Design
 
 **FLOW DIAGRAM**
 
-<img src="(https://github.com/user-attachments/assets/8ca65ca0-bb33-4571-821f-4d9ff407ca1b)" width="200" height="400"/>
+![image](https://github.com/user-attachments/assets/8ca65ca0-bb33-4571-821f-4d9ff407ca1b)
