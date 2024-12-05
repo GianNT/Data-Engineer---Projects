@@ -8,7 +8,6 @@ Project Idea:\
 •	Scope: This project extracts data on pageviews for specific domains and page names, focusing on the following companies: "Google", "Facebook", "Amazon", "Microsoft", "Apple", and "Walmart".\
 •	Objective: The processed data is transformed and loaded into a data warehouse (OLAP) for analysis and insights.
 
-
 **NOTE**\
 The final data in the data warehouse may not exactly match Wikimedia's source data. This project is for educational and practice purposes only.
 
@@ -36,6 +35,7 @@ o	Transform the data into Parquet format to optimize storage and querying.
 Challenge 2: Data Type Inconsistencies
 •	Problem: Spark sometimes encounters schema mismatches (e.g., IntegerType vs. LongType) when reading and combining Parquet files.
 •	Solution: Define and enforce explicit data types for each column in the initial Parquet files.
+
 Challenge 3: Optimizing Fact Table Design
 •	Problem: The data warehouse stores years of data, potentially impacting query performance.
 •	Solution: Partition fact tables by year and month to improve query efficiency and scalability
