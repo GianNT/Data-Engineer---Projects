@@ -1,6 +1,6 @@
 **PAGEVIEW COUNT BASED ON DOMAINS DATA WAREHOUSE**
 
-**INTRODUCTION** 
+**INTRODUCTION** \
 The aim of this project is to develop a data warehouse for analytical purposes, specifically targeting skills at the fresher level. The project focuses on improving batch data collection techniques and the application of ETL/ELT processes using Python and Apache Spark.
 Project Idea:
 •	Data Source: Pageview count data collected from Wikimedia.
@@ -9,7 +9,7 @@ Project Idea:
 •	Objective: The processed data is transformed and loaded into a data warehouse (OLAP) for analysis and insights.
 
 
-**NOTE**
+**NOTE**\
 The final data in the data warehouse may not exactly match Wikimedia's source data. This project is for educational and practice purposes only.
 
 **PROJECT STRUCTURE** 
