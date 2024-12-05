@@ -18,13 +18,13 @@ The final data in the data warehouse may not exactly match Wikimedia's source da
 3.	Data Warehouse: The final OLAP storage for the processed data.
 4.	Extract and Visualization: Tableau is used for visualizing key statistics and insights.
 
-**DEPENDENCIES AND TOOLS**
+**DEPENDENCIES AND TOOLS**\
 •	Python: The core programming language for data extraction, transformation, and loading (ETL).\
 •	Apache Spark: Used for large-scale parallel data processing and loading data into the data warehouse.\
 •	Navicat Premium: A user-friendly tool for database management and development.\
 •	Tableau: For creating interactive visualizations and insights.
 
-**SKILLS AND CHALLENGES ADDRESSED**
+**SKILLS AND CHALLENGES ADDRESSED**\
 
 Challenge 1: Handling Large .gz Files
 •	Problem: The .gz files are large, requiring significant storage space.
@@ -41,6 +41,8 @@ Challenge 3: Optimizing Fact Table Design
 •	Solution: Partition fact tables by year and month to improve query efficiency and scalability
 
 **FLOW DIAGRAM**
-![recording_project_1_final](https://github.com/user-attachments/assets/a13ccbfb-ecef-47bf-ae42-f648e359f62d)
+
+<img src="https://github.com/user-attachments/assets/a13ccbfb-ecef-47bf-ae42-f648e359f62d" alt="recording_project_1_final" width="355" height="723"/>
+
 
 
