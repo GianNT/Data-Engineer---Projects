@@ -1,6 +1,6 @@
 **PAGEVIEW COUNT BASED ON DOMAINS DATA WAREHOUSE**
 
-**INTRODUCTION**
+**INTRODUCTION** 
 The aim of this project is to develop a data warehouse for analytical purposes, specifically targeting skills at the fresher level. The project focuses on improving batch data collection techniques and the application of ETL/ELT processes using Python and Apache Spark.
 Project Idea:
 •	Data Source: Pageview count data collected from Wikimedia.
@@ -19,12 +19,10 @@ The final data in the data warehouse may not exactly match Wikimedia's source da
 4.	Extract and Visualization: Tableau is used for visualizing key statistics and insights.
 
 **DEPENDENCIES AND TOOLS**
-
 •	Python: The core programming language for data extraction, transformation, and loading (ETL).\
 •	Apache Spark: Used for large-scale parallel data processing and loading data into the data warehouse.\
 •	Navicat Premium: A user-friendly tool for database management and development.\
 •	Tableau: For creating interactive visualizations and insights.
-
 
 **SKILLS AND CHALLENGES ADDRESSED**
 
