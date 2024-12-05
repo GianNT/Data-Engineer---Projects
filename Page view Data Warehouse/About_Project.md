@@ -1,11 +1,11 @@
 **PAGEVIEW COUNT BASED ON DOMAINS DATA WAREHOUSE**
 
 **INTRODUCTION** \
-The aim of this project is to develop a data warehouse for analytical purposes, specifically targeting skills at the fresher level. The project focuses on improving batch data collection techniques and the application of ETL/ELT processes using Python and Apache Spark.
-Project Idea:
-•	Data Source: Pageview count data collected from Wikimedia.
-•	Data Structure: The dataset spans multiple years, months, and days, with data collected at 1-hour intervals. Files are stored as compressed .gz archives.
-•	Scope: This project extracts data on pageviews for specific domains and page names, focusing on the following companies: "Google", "Facebook", "Amazon", "Microsoft", "Apple", and "Walmart".
+The aim of this project is to develop a data warehouse for analytical purposes, specifically targeting skills at the fresher level. The project focuses on improving batch data collection techniques and the application of ETL/ELT processes using Python and Apache Spark.\
+Project Idea:\
+•	Data Source: Pageview count data collected from Wikimedia.\
+•	Data Structure: The dataset spans multiple years, months, and days, with data collected at 1-hour intervals. Files are stored as compressed .gz archives.\
+•	Scope: This project extracts data on pageviews for specific domains and page names, focusing on the following companies: "Google", "Facebook", "Amazon", "Microsoft", "Apple", and "Walmart".\
 •	Objective: The processed data is transformed and loaded into a data warehouse (OLAP) for analysis and insights.
 
 
@@ -24,7 +24,7 @@ The final data in the data warehouse may not exactly match Wikimedia's source da
 •	Navicat Premium: A user-friendly tool for database management and development.\
 •	Tableau: For creating interactive visualizations and insights.
 
-**SKILLS AND CHALLENGES ADDRESSED**\
+**SKILLS AND CHALLENGES ADDRESSED**
 
 Challenge 1: Handling Large .gz Files
 •	Problem: The .gz files are large, requiring significant storage space.
